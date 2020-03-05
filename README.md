@@ -1,2 +1,3 @@
 # aulaTravisCI-
-Teste de automação
+Teste de automação<br>
+Verificando arquivos de configuração
